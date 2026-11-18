@@ -6,7 +6,7 @@ The project demonstrates basic game programming concepts, third-person movement,
 
 ## Play Online
 
-[Play Third Person Template](https://avartscourses.github.io/ThirdPersonTemplate/)
+[Play Third Person Template](http://avartscourses.github.io/ThirdPersonTemplate/)
 
 **Controls**
 
