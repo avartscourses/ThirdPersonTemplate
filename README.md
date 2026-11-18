@@ -30,7 +30,7 @@ Copy the repository URL: [https://github.com/avartscourses/ThirdPersonTemplate.g
 
 Clone it using Git GUI, Git Bash, or GitHub Desktop.
 
-Open the `UnityProject` folder through Unity Hub using **Unity 6.3 LTS**.
+Open the **UnityProject** sub folder through Unity Hub using **Unity 6.3 LTS**.
 
 ## Main Features
 
